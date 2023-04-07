@@ -1,55 +1,167 @@
-MARIA Core integration/staging repository
-=====================================
+# MARIA - Maria Coin
 
-[![master Actions Status](https://github.com/hostmaria/mariacoin/workflows/CI%20Actions%20for%20MARIA/badge.svg)](https://github.com/hostmaria/mariacoin/actions)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/MARIA-Project/maria?color=%235c4b7d&cacheSeconds=3600)](https://github.com/hostmaria/mariacoin/releases)
-[![GitHub Release Date](https://img.shields.io/github/release-date/MARIA-Project/maria?color=%235c4b7d&cacheSeconds=3600)](https://github.com/hostmaria/mariacoin/releases)
+<h2>Coin Specs</h2>
+<ul>
+<li>Name: Maria Coin</li>
+<li>Ticker: MARIA</li>
+<li>Launch Date: September 10, 2022</li>
+<li>Launch phase: 1-200 > PoW</li>
+<li>201 - Unlimited > PoS</li>
+<li>Algorithm: OUARK</li>
+<li>Total Supply: Unlimited</li>
+<li>Premine: 8,888,888</li>
+<li>Block Time: 60 Seconds</li>
+<li>Maturity: 100 Confirmations</li>
+<li>MN Collateral: 100,000</li>
+<li>Prefix: MARIA addresses start with the capital letter "M"</li>
+<li>Ports: 47773</li>
+</ul>
 
-## What is MARIA?
+<h3>Genesis Block</h3>
+<ul>
+  <li>Block Height: 1</li>
+  <li>Reward Amount: 8,888,888 MARIA	Initial pre-mine</li>
+</ul>
 
-MARIA is an open source community-driven cryptocurrency, focused on five main aspects:
+<h3>Halving and Rewards</h3>
+  Note: Note: 1 million bloks ir approximatelly 23 months
+<ul>
+  <li>Block (from & to) - Reward</li>
+  <li>till the block 318'888 = 799.2 MARIA</li>
+  <li>318'889 to 888'888 = 444 MARIA</li>
+  <li>888'889 to 1'888'888 = 222 MARIA</li>
+  <li>1'888'889 to 2'888'888 = 111 MARIA</li>
+  <li>2'888'889 to 3'888'888 = 55.5 MARIA</li>
+  <li>3'888'889 to 4'888'888 = 27.75 MARIA</li>
+  <li>4'888'889 to 5'888'888 = 13.875 MARIA</li>
+  <li>5'888'889 to Unlimited - 27.75 MARIA</li>
+</ul>
 
-(1) User Data Protection: Through the use of SHIELD, a zk-SNARKs based privacy protocol.
+<table>
+	<caption>Table - Halvings and Rewards</caption>
+	<thead>
+	<tr>
+		<th>Blocks from &gt; to</th>
+		<th>Block Reward</th>
+		<th>MN %</th>
+		<th>Stake %</th>
+		<th>MN Reward</th>
+		<th>Stake Reward</th>
+	</tr>	</thead>	<tbody>	<tr>
+		<td>&nbsp;till 318'888</td>
+		<td>&nbsp;799,2</td>
+		<td>-</td>
+		<td>-&nbsp;</td>
+		<td>&nbsp;532.799999999</td>
+		<td>&nbsp;266.40000001</td>
+	</tr>
+	<tr>
+		<td>&nbsp;318'889 to 888'888</td>
+		<td>&nbsp;444</td>
+		<td>&nbsp;55%</td>
+		<td>&nbsp;45%</td>
+		<td>&nbsp;244.2</td>
+		<td>199.8&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;888'889 to 1'888'888</td>
+		<td>&nbsp;222</td>
+		<td>&nbsp;45%</td>
+		<td>&nbsp;55%</td>
+		<td>&nbsp;99.9</td>
+		<td>122.1&nbsp;</td>
+	</tr>
+	<tr>
+		<td>1'888'889 to&nbsp; 2'888'888</td>
+		<td>&nbsp;111</td>
+		<td>&nbsp;50%</td>
+		<td>&nbsp;50%</td>
+		<td>&nbsp;55.5</td>
+		<td>55.5&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;2'888'889 to 3'888'888</td>
+		<td>&nbsp;55.5</td>
+		<td>&nbsp;55%</td>
+		<td>&nbsp;45%</td>
+		<td>&nbsp;30.525</td>
+		<td>24.975&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;3'888'889 to 4'888'888</td>
+		<td>&nbsp;27.75</td>
+		<td>&nbsp;60%</td>
+		<td>&nbsp;40%</td>
+		<td>&nbsp;16.65</td>
+		<td>11.1&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;4'888'889 to 5'888'888</td>
+		<td>&nbsp;13.875</td>
+		<td>&nbsp;65%</td>
+		<td>&nbsp;35%</td>
+		<td>&nbsp;9.01875</td>
+		<td>4.85625&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;5'888'889 to unlimited</td>
+		<td>&nbsp;6.9375</td>
+		<td>&nbsp;70%</td>
+		<td>30%&nbsp;</td>
+		<td>&nbsp;4.85625</td>
+		<td>&nbsp;2.08125</td>
+	</tr>
+	<tbody>
+</table>
 
-(2) Low environmental footprint and network participation equality: Through the use of a highly developed Proof of Stake protocol.
+====
 
-(3) Decentralized Governance System: A DAO built on top of the tier two Masternodes network, enabling a monthly community treasury, proposals submission and decentralized voting.
+<h3>LINKS</h3>
+<ul>
+  <li>Website: https://www.mariacoin.com</li>
+  <li>Maria Core Wallets: https://github.com/hostmaria/mariacoin/releases</li>
+  <li>Maria Web Wallet: https://www.mariawallet.com</li>
+  <li>Official Explorer: https://explorer.mariacoin.com</li>
+  <li>CoinExplorer Explorer: https://www.coinexplorer.net/MARIA/</li>
+  <li>Maria Whitepaper: https://github.com/hostmaria/mariacoin/blob/main/whitepaper.md</li>
+  <li>Bitcointalk Announcement: https://bitcointalk.org/index.php?topic=5413122</li>
+</ul>
 
-(4) Fast Transactions: Through the use of fast block times and the tier two network, MARIA is committed to continue researching new and better instant transactions mechanisms.
+<h3>THE ONLY OFFICIAL DICSUSSION CHANNEL</h3>
+<ul>
+  <li>Forum: https://maria.zone/index.php#c3</li>
+</ul>
+	
+<h3>SOCIAL MEDIA:</h3>
+<ul>
+  <li>Discord: https://discord.gg/cGsXc3gKeQ (channel closed)</li>
+  <li>Twitter: https://twitter.com/TheMariaCoin</li>
+  <li>Telegram: https://t.me/themariacoin</li>
+  <li>Reddit: https://reddit.com/r/mariacoin</li>
+</ul>
 
-(5) Ease of Use: MARIA is determined to offer the best possible graphical interface for a core node/wallet. A full featured graphical product for new and advanced users.
+<h3>COIN DIRECTORY LISTINGS:</h3>
+<ul>
+  <li>CoinGecko: https://www.coingecko.com/en/coins/maria</li>
+  <li>CoinPaprika: https://coinpaprika.com/coin/maria-maria/</li>
+  <li>NodeStats: https://nodestats.info/default.php?coin=maria</li>
+  <li>LiveCoinWatch: https://www.livecoinwatch.com/price/Maria-MARIA</li>
+  <li>Nomics: https://nomics.com/assets/maria-maria</li>
+  <li>Tokeninsight: https://tokeninsight.com/en/coins/maria/overview</li>
+  <li>CoinCost: https://coincost.net/en/currency/maria</li>
+  <li>CoinBuddy: https://coinbuddy.co/coins/maria</li>
+  <li>https://coindataflow.com/en/currency/maria</li>
+</ul>
 
-A lot more information and specs at [MARIA.org](https://www.maria.org/). Join the community at [MARIA Discord](https://discordapp.com/invite/jzqVsJd).
+<hr>
+<h3>EXCHANGES - WHERE TO BUY & SELL $MARIA</h3>
+<h4>StakeCube Trading Pairs (Warning: insolvent exchange)</h4>
+<ul>
+  <li>Maria/BTC: https://stakecube.net/app/exchange/maria_btc</li>
+  <li>Maria/SCC: https://stakecube.net/app/exchange/maria_scc</li>
+  <li>Maria/USDT: https://stakecube.net/app/exchange/maria_usdt</li>
+</ul>
 
-## License
-MARIA Core is released under the terms of the MIT license. See [COPYING](https://github.com/hostmaria/mariacoin/blob/master/COPYING) for more information or see https://opensource.org/licenses/MIT.
+<hr>
 
-## Development Process
-
-The master branch is regularly built (see doc/build-*.md for instructions) and tested, but it is not guaranteed to be completely stable. [Tags](https://github.com/hostmaria/mariacoin/tags) are created regularly from release branches to indicate new official, stable release versions of MARIA Core.
-
-The contribution workflow is described in [CONTRIBUTING.md](https://github.com/hostmaria/mariacoin/blob/master/CONTRIBUTING.md) and useful hints for developers can be found in [doc/developer-notes.md](https://github.com/hostmaria/mariacoin/blob/master/doc/developer-notes.md).
-
-## Testing
-
-Testing and code review is the bottleneck for development; we get more pull requests than we can review and test on short notice. Please be patient and help out by testing other people's pull requests, and remember this is a security-critical project where any mistake might cost people a lot of money.
-
-## Automated Testing
-
-Developers are strongly encouraged to write [unit tests](https://github.com/hostmaria/mariacoin/blob/master/src/test/README.md) for new code, and to submit new unit tests for old code. Unit tests can be compiled and run (assuming they weren't disabled in configure) with: make check. Further details on running and extending unit tests can be found in [/src/test/README.md](https://github.com/hostmaria/mariacoin/blob/master/src/test/README.md).
-
-There are also regression and integration tests, written in Python. These tests can be run (if the test dependencies are installed) with: test/functional/test_runner.py`
-
-The CI (Continuous Integration) systems make sure that every pull request is built for Windows, Linux, and macOS, and that unit/sanity tests are run automatically.
-
-## Manual Quality Assurance (QA) Testing
-
-Changes should be tested by somebody other than the developer who wrote the code. This is especially important for large or high-risk changes. It is useful to add a test plan to the pull request description if testing the changes is not straightforward.
-
-## Translations
-
-Changes to translations as well as new translations can be submitted to MARIA Core's Transifex page.
-
-Translations are periodically pulled from Transifex and merged into the git repository. See the [translation process](https://github.com/hostmaria/mariacoin/blob/master/doc/translation_process.md) for details on how this works.
-
-Important: We do not accept translation changes as GitHub pull requests because the next pull from Transifex would automatically overwrite them again.
+<p>.. to be organised..</p>

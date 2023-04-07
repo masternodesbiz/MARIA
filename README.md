@@ -4,16 +4,20 @@
 <ul>
 <li>Name: Maria Coin</li>
 <li>Ticker: MARIA</li>
+<li>Usage: Maria Ecosystem Native currency > HostMaria.com (operational), MariaBuy.com (operational), MariaPics.com, Maria CX, Bet Maria and more..</li>
 <li>Launch Date: September 10, 2022</li>
 <li>Launch phase: 1-200 > PoW</li>
 <li>201 - Unlimited > PoS</li>
 <li>Algorithm: OUARK</li>
+<li>Coin type: Layer 1 Coin</li>
+<li>Fork of: PivX</li>
 <li>Total Supply: Unlimited</li>
 <li>Premine: 8,888,888</li>
 <li>Block Time: 60 Seconds</li>
-<li>Maturity: 100 Confirmations</li>
+<li>Maturity: 20 Confirmations</li>
 <li>MN Collateral: 100,000</li>
-<li>Prefix: MARIA addresses start with the capital letter "M"</li>
+<li>Prefix: MARIA "transparent" addresses start with the capital letter "M"</li>
+<li>Prefix: MARIA "shielded" addresses start with the "ms1"</li>
 <li>Ports: 47773</li>
 </ul>
 
@@ -21,6 +25,20 @@
 <ul>
   <li>Block Height: 1</li>
   <li>Reward Amount: 8,888,888 MARIA	Initial pre-mine</li>
+</ul>
+
+<h3>Official Addnodes</h3>
+<ul>
+  <li>addnode=188.40.233.38</li>
+  <li>addnode=188.40.233.39</li>
+  <li>addnode=188.40.233.40</li>
+  <li>addnode=188.40.233.41</li>
+  <li>addnode=188.40.233.43</li>
+  <li>addnode=188.40.233.44</li>
+  <li>addnode=199.127.140.224</li>
+  <li>addnode=199.127.140.225</li>
+  <li>addnode=199.127.140.235</li>
+  <li>addnode=199.127.140.236</li>
 </ul>
 
 <h3>Halving and Rewards</h3>
@@ -34,7 +52,7 @@
   <li>2'888'889 to 3'888'888 = 55.5 MARIA</li>
   <li>3'888'889 to 4'888'888 = 27.75 MARIA</li>
   <li>4'888'889 to 5'888'888 = 13.875 MARIA</li>
-  <li>5'888'889 to Unlimited - 27.75 MARIA</li>
+  <li>5'888'889 to Unlimited = 6.9375 MARIA</li>
 </ul>
 
 <table>
@@ -134,10 +152,11 @@
 	
 <h3>SOCIAL MEDIA:</h3>
 <ul>
-  <li>Discord: https://discord.gg/cGsXc3gKeQ (channel closed)</li>
+  <li>YouTube: https://www.youtube.com/@mariacoin</li>
   <li>Twitter: https://twitter.com/TheMariaCoin</li>
   <li>Telegram: https://t.me/themariacoin</li>
   <li>Reddit: https://reddit.com/r/mariacoin</li>
+  <li>(closed) Discord: https://discord.gg/cGsXc3gKeQ (channel closed)</li>
 </ul>
 
 <h3>COIN DIRECTORY LISTINGS:</h3>
@@ -150,11 +169,44 @@
   <li>Tokeninsight: https://tokeninsight.com/en/coins/maria/overview</li>
   <li>CoinCost: https://coincost.net/en/currency/maria</li>
   <li>CoinBuddy: https://coinbuddy.co/coins/maria</li>
-  <li>https://coindataflow.com/en/currency/maria</li>
+  <li>CoinDataFlow: https://coindataflow.com/en/currency/maria</li>
+</ul>
+
+<h3>Links - MasterNode specific Directories:</h3>
+<ul>
+  <li>Masternodes Online: https://masternodes.online/currencies/MARIA/</li>
+  <li>Node Stats: https://nodestats.info/default.php?coin=maria</li>
+  <li>Pecunia Platform: https://pecuniaplatform.io/coin-stats/maria</li>
+  <li>Masternodes.biz: https://masternodes.biz/cryptocurrency/MARIA</li>
 </ul>
 
 <hr>
 <h3>EXCHANGES - WHERE TO BUY & SELL $MARIA</h3>
+
+<h4>DEX-Trade (referral link for joining: https://ej.uz/dextrade):</h4>
+<ul>
+  <li>MARIA-BTC: https://dex-trade.com/spot/trading/MARIABTC</li>
+  <li>MARIA-USDT: https://dex-trade.com/spot/trading/MARIAUSDT</li>
+</ul>
+
+
+<h4>FinexBox (referral link for joining: https://ej.uz/finexbox):</h4>
+<ul>
+  <li>MARIA-BTC: https://www.finexbox.com/market/pair/MARIA-BTC.html</li>
+  <li>MARIA-ETH: https://www.finexbox.com/market/pair/MARIA-ETH.html</li>
+</ul>
+
+<h4>FreiExchange (Norway)</h4>
+<ul>
+  <li>MARIA-BTC: https://freiexchange.com/market/MARIA/BTC</li>
+</ul>
+
+<h4>Exchange-Assets.Com (Ukraine)</h4>
+<ul>
+  <li>MARIA/BTC: https://exchange-assets.com/en/?market=maria_btc</li>
+  <li>MARIA/USDT: https://exchange-assets.com/en/?market=maria_usdt</li>
+</ul>
+
 <h4>StakeCube Trading Pairs (Warning: insolvent exchange)</h4>
 <ul>
   <li>Maria/BTC: https://stakecube.net/app/exchange/maria_btc</li>
@@ -164,4 +216,30 @@
 
 <hr>
 
-<p>.. to be organised..</p>
+<h3>Team</h3>
+<h4>Founder: Helmuts Meskonis, No Stress Ltd (UK)</h4>
+<ul>
+  <li>Linkedin: https://www.linkedin.com/in/helmutsmeskonis/</li>
+  <li>Github: https://github.com/helmuc</li>
+  <li>Twitter: https://twitter.com/helmutsmeskonis</li>
+</ul>
+
+<h4>Stage 1 (completed) development: Liquid369 (USA)</h4>
+<ul>
+  <li>Github: https://github.com/Liquid369</li>
+  <li>Twitter: https://twitter.com/liquid369</li>
+</ul>
+
+<h4>Developer and Security Consultant: Christian M. (USA)</h4>
+<ul>
+  <li>Github: https://github.com/SpectreSecurity</li>
+  <li>Linkedin: https://www.linkedin.com/in/christian-marvel-8a910154/</li>
+</ul>
+
+<h4>Contractor: Graphics: Felikss Veilands (Republic of Ireland)</h4>
+<ul>
+  <li>Linkedin: https://www.linkedin.com/in/felikss-veilands/</li>
+  <li>Twitter: https://twitter.com/FelikssVeilands</li>
+</ul>
+
+<p>.. more information will be added with time..</p>

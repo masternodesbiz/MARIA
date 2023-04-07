@@ -460,7 +460,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 }
 
 *[cssClass="amount-small-popup"] {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     font-size:17px;
 }
 
@@ -2481,7 +2481,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 }
 
 *[cssClass="btn-dialog-secondary"] {
-    background: #ffffff;
+    background: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border:1px solid #bababa;
     border-radius: 2px;
     color: #4d4d4d; /* Very Dark Gray https://www.colorhexa.com/4d4d4d */
@@ -3041,7 +3041,7 @@ QLineEdit[cssClass="edit-primary-dialog-error"] {
 
 QTextEdit[cssClass="edit-text-dialog"] {
     border:  1px solid #bababa;
-    background-color:#ffffff;
+    background-color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     font-size:16px;
     border-radius: 2px;
     padding:8px;
@@ -3242,12 +3242,12 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 }
 
 *[cssClass="text-subtitle-faq"] {
-    color:#FFFFFF; /* Very dark desaturated orange. https://www.colorhexa.com/11290c */
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     font-size:22px;
 }
 
 *[cssClass="text-content-faq"] {
-    color:#FFFFFF; /* Very dark desaturated orange. https://www.colorhexa.com/11290c */
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     font-size:18px;
 }
 
@@ -3268,7 +3268,7 @@ QPushButton[cssClass="btn-faq-exit"] {
     border:none;
     padding:0 30px 0 0;
     font-size:18px;
-    color:#CCFFFFFF; /* Very dark desaturated orange. https://www.colorhexa.com/11290c */
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     text-align:left;
 }
 
@@ -3276,7 +3276,7 @@ QPushButton[cssClass="btn-faq-web"] {
     background-color:transparent;
     border:none;
     font-size:16px;
-    color:#29641e; /* Dark moderate green. https://www.colorhexa.com/11290c */
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     text-align:left;
 }
 
@@ -3286,7 +3286,7 @@ QPushButton[cssClass="btn-faq-options"] {
     background-color:transparent;
     border:none;
     font-size:18px;
-    color:#29641e; /* Very dark desaturated orange. https://www.colorhexa.com/11290c */
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     padding:0 20px;
     text-align:left;
 }
@@ -3368,12 +3368,12 @@ QPushButton[cssClass="ic-step-confirm-welcome"] {
 }
 
 *[cssClass="text-title-welcome"] {
-    color:#11290c; /* Very dark desaturated orange. https://www.colorhexa.com/11290c */
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     font-size:26px;
 }
 
 *[cssClass="text-main-white"] {
-    color:#11290c; /* Very dark desaturated orange. https://www.colorhexa.com/11290c */
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     font-size:20px;
 }
 
@@ -3435,7 +3435,7 @@ QPushButton[cssClass="ic-step-confirm-welcome"] {
 }
 
 QComboBox[cssClass="btn-combo-welcome"] {
-    background-color:#171022; /* Very dark (mostly black) violet. https://www.colorhexa.com/171022 */
+    background-color:#29641e; /* Slightly desaturated green. https://www.colorhexa.com/29641e */
     padding:10px 20px 10px 10px;
     font-size:16px;
     border:1px solid #11290c; /* Dark moderate green. https://www.colorhexa.com/11290c */
@@ -3464,7 +3464,7 @@ QPushButton[cssClass="btn-welcome-next"] {
     background-position:center;
     border:  0;
     background-color:#29641e; /* Slightly desaturated green. https://www.colorhexa.com/29641e */
-    color:#11290c; /* Dark moderate green. https://www.colorhexa.com/11290c */
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 
@@ -3481,14 +3481,14 @@ QPushButton[cssClass="btn-welcome-number-check"]:checked {
     background-color:#29641e; /* Slightly desaturated green. https://www.colorhexa.com/29641e */
     font-size:14px;
     border-radius:11px;
-    color:#11290c; /* Dark moderate green. https://www.colorhexa.com/11290c */
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 QPushButton[cssClass="btn-welcome-name-check"] {
     background-color: transparent;
     border:none;
     font-size:20px;
-    color:#11290c; /* Very dark desaturated orange. https://www.colorhexa.com/11290c */
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 QPushButton[cssClass="btn-welcome-name-check"]:checked {
@@ -3825,7 +3825,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
  */
 
 *[cssClass="text-intro-white"] {
-    color:#11290c; /* Very dark desaturated orange. https://www.colorhexa.com/11290c */
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     font-size:16px;
 }
 

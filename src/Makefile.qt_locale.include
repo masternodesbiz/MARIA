@@ -1,0 +1,15 @@
+QT_TS = \
+  qt/locale/maria_de.ts \
+  qt/locale/maria_en.ts \
+  qt/locale/maria_en_US.ts \
+  qt/locale/maria_es.ts \
+  qt/locale/maria_es_ES.ts \
+  qt/locale/maria_fr_FR.ts \
+  qt/locale/maria_hr_HR.ts \
+  qt/locale/maria_it.ts \
+  qt/locale/maria_ko_KR.ts \
+  qt/locale/maria_nl.ts \
+  qt/locale/maria_pl.ts \
+  qt/locale/maria_ru.ts \
+  qt/locale/maria_tr.ts \
+  qt/locale/maria_zh_CN.ts

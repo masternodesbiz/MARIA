@@ -273,8 +273,8 @@ public:
         consensus.vUpgrades[Consensus::UPGRADE_V3_4].nActivationHeight          = 550; //StakeModV2 Block v6
         consensus.vUpgrades[Consensus::UPGRADE_V4_0].nActivationHeight          = 1000; //Time ProtocolV2 Cold Staking Block v7
         consensus.vUpgrades[Consensus::UPGRADE_V5_0].nActivationHeight          = 2000; // Sapling Block v8
-        consensus.vUpgrades[Consensus::UPGRADE_V5_2].nActivationHeight          = 292700;
-        consensus.vUpgrades[Consensus::UPGRADE_V5_3].nActivationHeight          = 301400;
+        consensus.vUpgrades[Consensus::UPGRADE_V5_2].nActivationHeight          = 322700;
+        consensus.vUpgrades[Consensus::UPGRADE_V5_3].nActivationHeight          = 321400;
         consensus.vUpgrades[Consensus::UPGRADE_V5_5].nActivationHeight          = 371520;
         consensus.vUpgrades[Consensus::UPGRADE_V6_0].nActivationHeight =
                 Consensus::NetworkUpgrade::NO_ACTIVATION_HEIGHT;

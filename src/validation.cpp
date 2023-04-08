@@ -822,7 +822,7 @@ CAmount GetBlockValue(int nHeight)
     if (isTestnet && nHeight < 201 && nHeight > 1) {
         return 250000 * COIN;
     }
-	if (nHeight = 1) {
+	if (nHeight == 1) {
         ret = COIN * 8888888;
 	} 
 	else if (nHeight >= 2 && nHeight <= 318888) {

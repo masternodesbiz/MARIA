@@ -70,8 +70,8 @@
 		<td>&nbsp;799,2</td>
 		<td>-</td>
 		<td>-&nbsp;</td>
-		<td>&nbsp;532.799999999</td>
-		<td>&nbsp;266.40000001</td>
+		<td>&nbsp;479.52</td>
+		<td>&nbsp;319.68</td>
 	</tr>
 	<tr>
 		<td>&nbsp;318'889 to 888'888</td>

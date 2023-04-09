@@ -3045,7 +3045,7 @@ QTextEdit[cssClass="edit-text-dialog"] {
     font-size:16px;
     border-radius: 2px;
     padding:8px;
-    color: #707070;
+    color: #707070;  /* Very dark gray. https://www.colorhexa.com/707070 */
 }
 
 QTextEdit[cssClass="edit-text-dialog"]:focus {
@@ -3057,7 +3057,7 @@ QTextEdit[cssClass="edit-text-dialog"]:focus:hover {
 }
 
 QTextEdit[cssClass="edit-text-dialog"]:hover {
-    border: 1px solid #707070;
+    border: 1px solid #707070;  /* Very dark gray. https://www.colorhexa.com/707070 */
 }
 
 QLabel[cssClass="label-subtitle-dialog"] {

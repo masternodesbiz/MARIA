@@ -148,7 +148,7 @@ QPushButton[cssClass="img-nav-logo"] {
 QPushButton[cssClass="btn-check-cold-staking"] {
     qproperty-icon: url("://ic-check-cold-staking");
     qproperty-iconSize: 24px 24px;
-    color:#ffffff;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     background-color:#52437342;
     border-bottom:2px solid #437342;
     border-radius:2px;
@@ -158,7 +158,7 @@ QPushButton[cssClass="btn-check-cold-staking"] {
 QPushButton[cssClass="btn-check-cold-staking-inactive"] {
     qproperty-icon: url("://ic-check-cold-staking-off");
     qproperty-iconSize: 24px 24px;
-    color:#B3FFFFFF;
+    color:#B3FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     background-color:#40437342;
     border-bottom:2px solid #437342;
     border-radius:2px;
@@ -168,14 +168,14 @@ QPushButton[cssClass="btn-check-cold-staking-checked"] {
     qproperty-icon: url("://ic-check-cold-staking-enabled");
     qproperty-iconSize: 24px 24px;
     background-color:#52437342;
-    color:#ffffff;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     border-bottom:2px solid #ffd700;
 }
 
 QPushButton[cssClass="btn-check-cold-staking-unchecked"] {
     qproperty-icon: url("://ic-check-cold-staking-enabled");
     qproperty-iconSize: 24px 24px;
-    color:#B3FFFFFF;
+    color:#B3FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     background-color:#40437342;
     border-bottom:2px solid #437342;
     border-radius:2px;
@@ -449,17 +449,17 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 }
 
 *[cssClass="amount-topbar"] {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     font-size:35px;
 }
 
 *[cssClass="amount-small-topbar"] {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     font-size:21px;
 }
 
 *[cssClass="amount-small-popup"] {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     font-size:17px;
 }
 
@@ -488,7 +488,7 @@ QPushButton[cssClass="btn-info"]:hover {
 
 *[cssClass="sync-status"] {
     background-color:#52437342;
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-bottom:2px solid #ffd700;
     padding-right:10px;
     border-radius:2px;
@@ -498,7 +498,7 @@ QPushButton[cssClass="btn-info"]:hover {
 
 QPushButton[cssClass="btn-check-hd-upgrade"] {
     background-color:#52437342;
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     font-weight: bold;
     font-size: 15px;
     padding-right:6px;
@@ -524,7 +524,7 @@ QPushButton[cssClass="btn-check-faq"] {
     qproperty-icon: url("://ic-check-faq");
     qproperty-iconSize: 24px 24px;
     background-color:#52437342;
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     padding-right:6px;
     padding-left:6px;
     border-bottom:2px solid #ffd700;
@@ -535,7 +535,7 @@ QPushButton[cssClass="btn-check-faq-inactive"] {
     qproperty-icon: url("://ic-check-faq") ;
     qproperty-iconSize: 24px 24px;
     background-color:#52437342;
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     padding-right:6px;
     padding-left:6px;
     border-bottom:2px solid #ffd700;
@@ -552,7 +552,7 @@ QPushButton[cssClass="btn-check-sync"] {
     qproperty-icon: url("://ic-check-sync");
     qproperty-iconSize: 24px 24px;
     background-color:#52437342;
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     padding-right:6px;
     padding-left:6px;
     border-bottom:2px solid #52437342;
@@ -563,7 +563,7 @@ QPushButton[cssClass="btn-check-sync-inactive"] {
     qproperty-icon: url("://ic-check-sync-off") ;
     qproperty-iconSize: 24px 24px;
     background-color:#52437342;
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     padding-right:6px;
     padding-left:6px;
     border-bottom:2px solid #52437342;
@@ -580,7 +580,7 @@ QPushButton[cssClass="btn-check-mint"] {
     qproperty-icon: url("://ic-check-mint") ;
     qproperty-iconSize: 24px 24px;
     background-color:#40437342;
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-bottom:2px solid #ffd700;
     border-radius:2px;
 }
@@ -590,14 +590,14 @@ QPushButton[cssClass="btn-check-mint-inactive"] {
     qproperty-icon: url("://ic-check-mint-off") ;
     qproperty-iconSize: 24px 24px;
     background-color:#40437342;
-    color:#B3FFFFFF;
+    color:#B3FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-bottom:2px solid #437342;
     border-radius:2px;
 }
 
 QPushButton[cssClass="btn-check-mint"]:checked {
     background-color:#52437342;
-    color:#ffffff;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     border-bottom:2px solid #ffd700;
 }
 
@@ -605,7 +605,7 @@ QPushButton[cssClass="btn-check-mint"]:checked {
 QPushButton[cssClass="btn-check-stack"] {
     qproperty-icon: url("://ic-check-staking");
     qproperty-iconSize: 24px 24px;
-    color:#ffffff;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     background-color:#52437342;
     border-bottom:2px solid #ffd700;
     border-radius:2px;
@@ -615,7 +615,7 @@ QPushButton[cssClass="btn-check-stack"] {
 QPushButton[cssClass="btn-check-stack-inactive"] {
     qproperty-icon: url("://ic-check-staking-off");
     qproperty-iconSize: 24px 24px;
-    color:#B3FFFFFF;
+    color:#B3FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     background-color:#40437342;
     border-bottom:2px solid #437342;
     border-radius:2px;
@@ -624,14 +624,14 @@ QPushButton[cssClass="btn-check-stack-inactive"] {
 
 QPushButton[cssClass="btn-check-stack"]:checked {
     background-color:#52437342;
-    color:#ffffff;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     border-bottom:2px solid #ffd700;
 }
 
 QPushButton[cssClass="btn-check-connect"] {
     qproperty-icon: url("://ic-check-connect") ;
     qproperty-iconSize: 24px 24px;
-    color:#ffffff;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     background-color:#52437342;
     border-bottom:2px solid #ffd700;
     border-radius:2px;
@@ -641,7 +641,7 @@ QPushButton[cssClass="btn-check-connect"] {
 QPushButton[cssClass="btn-check-connect-inactive"] {
     qproperty-icon: url("://ic-check-connect-off");
     qproperty-iconSize: 24px 24px;
-    color:#B3FFFFFF;
+    color:#B3FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     background-color:#40437342;
     border-bottom:2px solid #437342;
     border-radius:2px;
@@ -649,7 +649,7 @@ QPushButton[cssClass="btn-check-connect-inactive"] {
 
 QPushButton[cssClass="btn-check-connect"]:checked {
     background-color:#52437342;
-    color:#ffffff;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     border-bottom:2px solid #ffd700;
 }
 
@@ -658,7 +658,7 @@ QPushButton[cssClass="btn-check-connect"]:checked {
 QPushButton[cssClass="btn-check-tor"] {
     qproperty-icon: url("://ic-check-tor") ;
     qproperty-iconSize: 24px 24px;
-    color:#ffffff;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     background-color:#52437342;
     border-bottom:2px solid #ffd700;
     border-radius:2px;
@@ -668,7 +668,7 @@ QPushButton[cssClass="btn-check-tor"] {
 QPushButton[cssClass="btn-check-tor-inactive"] {
     qproperty-icon: url("://ic-check-tor-off");
     qproperty-iconSize: 24px 24px;
-    color:#B3FFFFFF;
+    color:#B3FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     background-color:#40437342;
     border-bottom:2px solid #437342;
     border-radius:2px;
@@ -676,7 +676,7 @@ QPushButton[cssClass="btn-check-tor-inactive"] {
 
 QPushButton[cssClass="btn-check-tor"]:checked {
     background-color:#52437342;
-    color:#ffffff;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     border-bottom:2px solid #ffd700;
 }
 
@@ -688,7 +688,7 @@ QPushButton[cssClass="btn-check-status-lock"] {
     qproperty-icon: url("://ic-wallet-status-locked") off,
     url("://ic-wallet-status-locked") on ;
     qproperty-iconSize: 24px 24px;
-    color:#ffffff;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     border-radius:2px;
 }
 
@@ -698,7 +698,7 @@ QPushButton[cssClass="btn-check-status-unlock"] {
     qproperty-icon: url("://ic-wallet-status-unlocked") off,
     url("://ic-wallet-status-unlocked") on ;
     qproperty-iconSize: 24px 24px;
-    color:#B3FFFFFF;
+    color:#B3FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-radius:2px;
 }
 
@@ -708,7 +708,7 @@ QPushButton[cssClass="btn-check-status-staking"] {
     qproperty-icon: url("://ic-wallet-status-staking") off,
     url("://ic-wallet-status-staking") on ;
     qproperty-iconSize: 24px 24px;
-    color:#ffffff;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     border-radius:2px;
 }
 
@@ -722,20 +722,20 @@ QPushButton[cssClass="btn-check-text"] {
 }
 
 QPushButton[cssClass="btn-check-text"]:checked {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     background-color:#437342;
     border-bottom:2px solid #ffd700;
 }
 
 QPushButton[cssClass="btn-check-text-theme"] {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     background-color:#40437342;
     font-size:18px;
     border-bottom:2px solid #ffd700;
 }
 
 QPushButton[cssClass="btn-check-text-theme"]:checked {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     background-color:#52437342;
     border-bottom:2px solid #ffd700;
 }
@@ -746,7 +746,7 @@ QPushButton[cssClass="btn-check-theme"] {
     qproperty-icon: url("://ic-check-theme-dark") off,
     url("://ic-check-theme-light") on ;
     qproperty-iconSize: 24px 24px;
-    color:white;
+    color:white; /* White. https://www.colorhexa.com/ffffff */
     border-radius:2px;
 }
 
@@ -757,7 +757,7 @@ QPushButton[cssClass="btn-check-theme-dark"] {
     qproperty-icon: url("://ic-check-theme-dark") off,
     url("://ic-check-theme-dark") on ;
     qproperty-iconSize: 24px 24px;
-    color:white;
+    color:white; /* White. https://www.colorhexa.com/ffffff */
     border-radius:2px;
 }
 
@@ -767,7 +767,7 @@ QPushButton[cssClass="btn-check-theme-light"] {
     qproperty-icon: url("://ic-check-theme-light") off,
     url("://ic-check-theme-light") on ;
     qproperty-iconSize: 24px 24px;
-    color:white;
+    color:white; /* White. https://www.colorhexa.com/ffffff */
     border-radius:2px;
 }
 
@@ -779,7 +779,7 @@ QPushButton[cssClass="btn-check-theme"]:checked {
 QPushButton[cssClass="btn-check-peers"] {
     qproperty-icon: url("://ic-check-peers") ;
     qproperty-iconSize: 24px 24px;
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     background-color:#52437342;
     border-bottom:2px solid #ffd700;
     border-radius:2px;
@@ -787,7 +787,7 @@ QPushButton[cssClass="btn-check-peers"] {
 
 QPushButton[cssClass="btn-check-peers"]:checked {
     background-color:#52437342;
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-bottom:2px solid #ffd700;
 }
 
@@ -809,7 +809,7 @@ QPushButton[cssClass="btn-check-lock-sub-menu-unlocked"] {
     background-color: transparent;
     text-align: left;
     padding-left: 30px;
-    color:#B3FFFFFF;
+    color:#B3FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-bottom:0px;
     border-radius:0px;
 }
@@ -819,7 +819,7 @@ QPushButton[cssClass="btn-check-lock-sub-menu-unlocked"]:checked {
 }
 
 QPushButton[cssClass="btn-check-lock-sub-menu-unlocked"]:hover {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 QPushButton[cssClass="btn-check-lock-sub-menu-locked"] {
@@ -829,7 +829,7 @@ QPushButton[cssClass="btn-check-lock-sub-menu-locked"] {
     background-color: transparent;
     text-align: left;
     padding-left: 30px;
-    color:#B3FFFFFF;
+    color:#B3FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-bottom:0px;
     border-radius:0px;
 }
@@ -839,7 +839,7 @@ QPushButton[cssClass="btn-check-lock-sub-menu-locked"]:checked {
 }
 
 QPushButton[cssClass="btn-check-lock-sub-menu-locked"]:hover {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 
@@ -850,7 +850,7 @@ QPushButton[cssClass="btn-check-lock-sub-menu-staking"] {
     background-color: transparent;
     text-align: left;
     padding-left: 30px;
-    color:#B3FFFFFF;
+    color:#B3FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-bottom:0px;
     border-radius:0px;
 }
@@ -860,7 +860,7 @@ QPushButton[cssClass="btn-check-lock-sub-menu-staking"]:checked {
 }
 
 QPushButton[cssClass="btn-check-lock-sub-menu-staking"]:hover {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 
@@ -870,7 +870,7 @@ QPushButton[cssClass="btn-check-lock-sub-menu-staking"]:hover {
 
 
 *[cssClass="top-sub-menu-text"] {
-    color:#B3FFFFFF;
+    color:#B3FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 QProgressBar[cssClass="progress-sync"] {
@@ -925,7 +925,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 }
 
 *[cssClass="text-list-body-unconfirmed"] {
-    color:#B6B6B6;
+    color:#B6B6B6; /* Gray. https://www.colorhexa.com/b6b6b6 */
     font-size:16px;
 }
 
@@ -966,7 +966,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 }
 
 *[cssClass="text-list-caption-unconfirmed"] {
-    color:#B6B6B6;
+    color:#B6B6B6; /* Gray. https://www.colorhexa.com/b6b6b6 */
 }
 
 *[cssClass="text-list-caption-grey"] {
@@ -982,17 +982,17 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 
 *[cssClass="text-list-amount-send"] {
-    color:#f84444;
+    color:#f84444; /* Gray. Bright red. https://www.colorhexa.com/f84444 */
     font-size:16px;
 }
 
 *[cssClass="text-list-amount-send-small"] {
-    color:#f84444;
+    color:#f84444; /* Gray. Bright red. https://www.colorhexa.com/f84444 */
     font-size:15px;
 }
 
 *[cssClass="text-list-amount-unconfirmed"] {
-    color:#B6B6B6;
+    color:#B6B6B6; /* Gray. https://www.colorhexa.com/b6b6b6 */
     font-size:16px;
 }
 
@@ -1022,12 +1022,12 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 }
 
 *[cssClass="text-title-white"] {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     font-size:16px;
 }
 
 *[cssClass="text-content-white"] {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     font-size:16px;
 }
 
@@ -1052,7 +1052,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 }
 
 *[cssClass="text-body2-grey"] {
-    color:#707070;
+    color:#707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     font-size:14px;
 }
 
@@ -1201,7 +1201,7 @@ QPushButton[cssClass="btn-check-right"] {
     border:  1px solid #437342;
     background-color:#232614;
     font-size:18px;
-    color: #707070;
+    color: #707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     border-top-right-radius:2px;
     border-bottom-right-radius:2px;
 }
@@ -1211,7 +1211,7 @@ QPushButton[cssClass="btn-check-right"]:hover {
     border:  1px solid #ffd700;
     background-color:#232614;
     font-size:18px;
-    color: #707070;
+    color: #707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     border-top-right-radius:2px;
     border-bottom-right-radius:2px;
 }
@@ -1220,7 +1220,7 @@ QPushButton[cssClass="btn-check-right"]:pressed {
     border:  1px solid #437342;
     background-color:#4Dffd700;
     font-size:18px;
-    color: #707070;
+    color: #707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     border-top-right-radius:2px;
     border-bottom-right-radius:2px;
 }
@@ -1230,7 +1230,7 @@ QPushButton[cssClass="btn-check-right"]:checked {
     border:  1px solid #437342;
     background-color:#437342;
     font-size:18px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-top-right-radius:2px;
     border-bottom-right-radius:2px;
 }
@@ -1240,7 +1240,7 @@ QPushButton[cssClass="btn-check-right"]:checked:hover {
     background-color:#52C13A;
     font-size:18px;
     padding:4px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-top-right-radius:2px;
     border-bottom-right-radius:2px;
 }
@@ -1260,7 +1260,7 @@ QPushButton[cssClass="btn-check-left"] {
     border:  1px solid #437342;
     background-color:#232614;
     font-size:18px;
-    color: #707070;
+    color: #707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     border-top-left-radius:2px;
     border-bottom-left-radius:2px;
 }
@@ -1270,7 +1270,7 @@ QPushButton[cssClass="btn-check-left"]:hover {
     border:  1px solid #ffd700;
     background-color:#232614;
     font-size:18px;
-    color: #707070;
+    color: #707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     border-top-left-radius:2px;
     border-bottom-left-radius:2px;
 }
@@ -1279,7 +1279,7 @@ QPushButton[cssClass="btn-check-left"]:pressed {
     border:  1px solid #437342;
     background-color:#4Dffd700;
     font-size:18px;
-    color: #707070;
+    color: #707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     border-top-left-radius:2px;
     border-bottom-left-radius:2px;
 }
@@ -1289,7 +1289,7 @@ QPushButton[cssClass="btn-check-left"]:checked {
     border:  1px solid #437342;
     background-color:#437342;
     font-size:18px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-top-left-radius:2px;
     border-bottom-left-radius:2px;
 }
@@ -1299,7 +1299,7 @@ QPushButton[cssClass="btn-check-left"]:checked:hover {
     background-color:#52C13A;
     font-size:18px;
     padding:4px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-top-left-radius:2px;
     border-bottom-left-radius:2px;
 }
@@ -1320,7 +1320,7 @@ QPushButton[cssClass="btn-check"]:checked {
     background-color:#437342;
     padding:4px;
     font-size:18px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-radius: 2px;
 }
 
@@ -1330,7 +1330,7 @@ QPushButton[cssClass="btn-check"]:checked:hover {
     background-color:#437342;
     font-size:18px;
     padding:4px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-radius: 2px;
 }
 
@@ -1358,7 +1358,7 @@ QPushButton[cssClass="btn-primary"] {
     background-color:#437342;
     font-size:18px;
     padding:4px 10px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-radius: 2px;
 }
 
@@ -1368,7 +1368,7 @@ QPushButton[cssClass="btn-primary"]:hover {
     background-color:#254A25;
     font-size:18px;
     padding:4px 10px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-radius: 2px;
 }
 
@@ -1461,7 +1461,7 @@ QLineEdit[cssClass="edit-primary-book"]:hover {
 }
 
 *[cssClass="edit-primary-book-error"] {
-    border:  1px solid #f84444;
+    border:  1px solid #f84444; /* Bright red. https://www.colorhexa.com/f84444 */
     background-image: url("://ic-address_book_grey");
     background-position:right center;
     background-repeat:no-repeat;
@@ -1502,7 +1502,7 @@ QLineEdit[cssClass="edit-primary-multi-book"]:hover {
 }
 
 *[cssClass="edit-primary-multi-book-error"] {
-    border:  1px solid #f84444;
+    border:  1px solid #f84444; /* Bright red. https://www.colorhexa.com/f84444 */
     background-image: url("://ic-address-send-white");
     background-position:right center;
     background-repeat:no-repeat;
@@ -1545,7 +1545,7 @@ QLineEdit[cssClass="edit-primary-book-send"]:hover {
 }
 
 *[cssClass="edit-primary-book-send-error"] {
-    border:  1px solid #f84444;
+    border:  1px solid #f84444; /* Bright red. https://www.colorhexa.com/f84444 */
     background-image: url("://ic-address-send-white");
     background-position:right center;
     background-repeat:no-repeat;
@@ -1762,17 +1762,17 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 }
 
 *[cssClass="edit-primary-disabled"] {
-    border:  1px solid #33ffffff;
+    border:  1px solid #33ffffff; /* White. https://www.colorhexa.com/ffffff */
     background-color:#232614;
     font-size:18px;
     border-radius: 2px;
     padding:8px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 
 *[cssClass="edit-primary-error"] {
-    border:  1px solid #f84444;
+    border:  1px solid #f84444; /* Bright red. https://www.colorhexa.com/f84444 */
     background-color:#232614;
     font-size:18px;
     border-radius: 2px;
@@ -1839,12 +1839,12 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 
 *[cssClass="text-warning"] {
-    color:#f84444;
+    color:#f84444; /* Bright red. https://www.colorhexa.com/f84444 */
     font-size:16px;
 }
 
 *[cssClass="text-warning-small"] {
-    color: #f84444;
+    color:#f84444; /* Bright red. https://www.colorhexa.com/f84444 */
     font-size:14px;
 }
 
@@ -1996,7 +1996,7 @@ QComboBox[cssClass="btn-combo-chart-selected"] {
     padding:6px 12px 6px 6px;
     font-size:16px;
     border:1px solid #B3437342;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     text-align: right;
     border-radius:2px;
 }
@@ -2019,7 +2019,7 @@ QComboBox[cssClass="btn-combo-chart-selected"]:disabled {
     padding:6px 12px 6px 6px;
     font-size:16px;
     border:1px solid #437342;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     text-align: right;
     border-radius:2px;
 }
@@ -2035,7 +2035,7 @@ QComboBox::down-arrow {
 QPushButton[cssClass="btn-check-time"] {
     background-color:#232614;
     font-size:14px;
-    color: #707070;
+    color: #707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     padding:4px;
     border-radius:2px;
 }
@@ -2053,7 +2053,7 @@ QPushButton[cssClass="btn-check-time"]:hover {
     border-radius:2px;
     font-size:14px;
     padding:4px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 QPushButton[cssClass="btn-check-time"]:pressed {
@@ -2069,7 +2069,7 @@ QPushButton[cssClass="btn-check-time"]:disabled {
     border-radius:2px;
     font-size:14px;
     padding:4px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border:1px solid #437342;
 }
 
@@ -2157,7 +2157,7 @@ QComboBox[cssClass="btn-combo-coins"] {
     padding:10px 20px 10px 10px;
     font-size:16px;
     border:1px solid #437342;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 QLabel[cssClass="btn-combo-coins"] {
@@ -2165,7 +2165,7 @@ QLabel[cssClass="btn-combo-coins"] {
     padding:10px 10px 10px 10px;
     font-size:16px;
     border:1px solid #437342;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 QComboBox[cssClass="btn-combo-coins"]::down-arrow {
@@ -2191,7 +2191,7 @@ HH       PPROPOSAL
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 *[cssClass="dialog-proposal-message"] {
-    color:#707070;
+    color:#707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     font-size:16px;
 }
 
@@ -2382,7 +2382,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 
 *[cssClass="vote-message"] {
-    color:#707070;
+    color:#707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     font-size:14px;
 }
 
@@ -2409,7 +2409,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 *[cssClass="vote-progress-no"] {
     height: 36px;
-    color: #4d4d4d;
+    color: #4d4d4d; /* Very Dark Gray https://www.colorhexa.com/4d4d4d */
     font-size:14px;
     background-color: transparent;
     border-radius: 2px;
@@ -2424,7 +2424,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 *[cssClass="vote-progress-yes"] {
     min-height: 36px;
-    color: #4d4d4d;
+    color: #4d4d4d; /* Very Dark Gray https://www.colorhexa.com/4d4d4d */
     font-size:14px;
     background-color: transparent;
     border-radius: 2px;
@@ -2506,7 +2506,7 @@ QTreeView {
     background: #232614;
     border: 1px solid #437342;
     font-size: 14px;
-    color: #4d4d4d;
+    color: #4d4d4d; /* Very Dark Gray https://www.colorhexa.com/4d4d4d */
     padding-left: 0px;
 }
 
@@ -2569,10 +2569,10 @@ QSpinBox[cssClass="btn-spin-box"], QDoubleSpinBox[cssClass="btn-spin-box"] {
     background-color:#232614;
     padding:10px 20px 10px 10px;
     font-size:16px;
-    border:1px solid #bababa;
+    border:1px solid #bababa; /* Gray. https://www.colorhexa.com/bababa */
     color: #707070;
     selection-background-color: #437342;
-    selection-color: #FFFFFF;
+    selection-color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 
@@ -2605,7 +2605,7 @@ QComboBox[cssClass="btn-combo"] {
     padding:10px 20px 10px 10px;
     font-size:16px;
     border:1px solid #232614;
-    color: #707070;
+    color: #707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     selection-color:#707070;
     text-align: right;
 }
@@ -2621,7 +2621,7 @@ QComboBox[cssClass="btn-combo-small"] {
     padding:8px 14px 8px 8px;
     font-size:13px;
     border:1px solid #232614;
-    color: #707070;
+    color: #707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     text-align: right;
 }
 
@@ -2685,7 +2685,7 @@ QComboBox {
     background-color:transparent;
     padding-right:20px;
     font-size:16px;
-    color: #707070;
+    color: #707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     border-radius:0px;
     border: 0px;
 }
@@ -2721,7 +2721,7 @@ QComboBox::down-arrow:on { /* shift the arrow when popup is open */
 }
 
 QComboBox:item {
-    color: #707070;
+    color: #707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     font-size:18px;
 }
 
@@ -2737,10 +2737,10 @@ QComboBox::selected:item { border: none; outline: 0px; }
 
 QComboBox QAbstractItemView::item {
     margin:0px;
-    background-color: #FFFFFF;
+    background-color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     padding:10px 20px;
     font-size:16px;
-    color: #707070;
+    color: #707070; /* Very dark gray. https://www.colorhexa.com/707070 */
     border-radius:0px;
     outline: 0px;
 }
@@ -2773,12 +2773,12 @@ QRadioButton:checked {
 }
 
 QRadioButton:unchecked {
-    color: #bababa;
+    color: #bababa; /* Gray. https://www.colorhexa.com/bababa */
     font-size:20px;
 }
 
 QRadioButton {
-    color: #bababa;
+    color: #bababa; /* Gray. https://www.colorhexa.com/bababa */
     font-size:20px;
     spacing:20px;
 }
@@ -2807,7 +2807,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 
 QScrollBar:vertical {
-    border: 0px solid #bababa;
+    border: 0px solid #bababa; /* Gray. https://www.colorhexa.com/bababa */
     background:#232614;
     width:7px;
     margin: 0px 0px 0px 0px;
@@ -2907,7 +2907,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 *[cssClass="container-coin-type"] {
     background-color:#232614;
-    border:  1px solid #bababa;
+    border:  1px solid #bababa; /* Gray. https://www.colorhexa.com/bababa */
     border-radius: 2px;
 }
 
@@ -2916,7 +2916,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
     qproperty-icon: url("://ic-coin-maria") off,
     url("://ic-coin-maria") on ;
     qproperty-iconSize: 24px 24px;
-    background-color: #FFFFFF;
+    background-color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border:  2px solid #232614;
     border-radius: 12px;
 }
@@ -2927,7 +2927,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
     qproperty-iconSize: 24px 24px;
     background-position:center;
     background-repeat:no-repeat;
-    background-color: #FFFFFF;
+    background-color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border:  2px solid #232614;
     border-radius: 12px;
 }
@@ -2990,7 +2990,7 @@ QDialogButtonBox QPushButton {
     background-color:#437342;
     font-size:18px;
     padding:4px 10px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 
 }
 
@@ -2999,13 +2999,13 @@ QPushButton[cssClass="btn-dialog-cancel"] {
     background-color:transparent;
     font-size:18px;
     padding:4px 10px;
-    color: #bababa;
+    color: #bababa; /* Gray. https://www.colorhexa.com/bababa */
     border-radius: 2px;
 }
 
 
 QLineEdit[cssClass="edit-primary-dialog"] {
-    border:  1px solid #bababa;
+    border:  1px solid #bababa; /* Gray. https://www.colorhexa.com/bababa */
     background-color:#232614;
     font-size:18px;
     border-radius: 2px;
@@ -3026,7 +3026,7 @@ QLineEdit[cssClass="edit-primary-dialog"]:hover {
 }
 
 QLineEdit[cssClass="edit-primary-dialog-error"] {
-    border:  1px solid #f84444;
+    border:  1px solid #f84444; /* Bright red. https://www.colorhexa.com/f84444 */
     background-color:#232614;
     font-size:18px;
     border-radius: 2px;
@@ -3138,7 +3138,7 @@ QPushButton[cssClass="btn-settings-options"]:checked {
     background-color:#437342;
     border:none;
     font-size:20px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     padding:0 20px;
     text-align:left;
 }
@@ -3147,7 +3147,7 @@ QPushButton[cssClass="btn-settings-options"]:hover {
     background-color: rgba(82, 183, 58, 0.7);
     border:none;
     font-size:20px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     padding:0 20px;
     text-align:left;
 }
@@ -3237,17 +3237,17 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 }
 
 *[cssClass="text-subtitle-faq"] {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     font-size:22px;
 }
 
 *[cssClass="text-content-faq"] {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     font-size:18px;
 }
 
 *[cssClass="container-number-faq"] {
-    color:#FFFFFF;
+    color:#FFFFFF; /* Very dark desaturated orange. https://www.colorhexa.com/11290c */
     background-color: #437342;
     font-size:14px;
     border-radius: 2px;
@@ -3281,7 +3281,7 @@ QPushButton[cssClass="btn-faq-options"] {
     background-color:transparent;
     border:none;
     font-size:18px;
-    color: #FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     padding:0 20px;
     text-align:left;
 }
@@ -3290,7 +3290,7 @@ QPushButton[cssClass="btn-faq-options"]:checked {
     background-color: rgba(106, 234, 84, 0.4);
     border:none;
     font-size:18px;
-    color: #FFFFFF;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     padding:0 20px;
     text-align:left;
 }
@@ -3363,12 +3363,12 @@ QPushButton[cssClass="ic-step-confirm-welcome"] {
 }
 
 *[cssClass="text-title-welcome"] {
-    color:#FFFFFF;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     font-size:26px;
 }
 
 *[cssClass="text-main-white"] {
-    color:#FFFFFF;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     font-size:20px;
 }
 
@@ -3434,7 +3434,7 @@ QComboBox[cssClass="btn-combo-welcome"] {
     padding:10px 20px 10px 10px;
     font-size:16px;
     border:1px solid #ffd700;
-    color: #FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 
@@ -3500,7 +3500,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 
 QToolTip {
-    color: white;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     background-color: #ffd700;
     border: none;
     padding:4px;
@@ -3517,17 +3517,17 @@ HH        ROW LIST
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 *[cssClass="container-list-menu"]{
-    background-color:white;
+    background-color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     border-radius:2px;
     padding:15px;
-    border: 1px solid #bababa;
+    border: 1px solid #bababa; /* Gray. https://www.colorhexa.com/bababa */
 }
 
 *[cssClass="btn-list-menu"]{
     border: 0;
-    background-color:#FFFFFF;
+    background-color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     font-size:16px;
-    color: #707070;
+    color: #707070; /* Very dark gray. https://www.colorhexa.com/707070 */
 }
 
 *[cssClass="btn-list-menu"]:hover{
@@ -3737,7 +3737,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 QHeaderView::section {
     background-color: #437342;
-    color: #FFFFFF;
+    color: #ffffff; /* White. https://www.colorhexa.com/ffffff */
     padding-top: 6px;
     padding-bottom: 6px;
     font-size:14px;
@@ -3789,12 +3789,12 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*/
 
 
 *[cssClass="container-snackbar"]{
-    background-color:#372A4C;
-    border-top:2px solid #ffd700;
+    background-color:#29641e; /* Slightly desaturated green. https://www.colorhexa.com/29641e */
+    border-top:2px solid #11290c; /* Dark moderate green. https://www.colorhexa.com/11290c */
 }
 
 *[cssClass="text-snackbar"]{
-    color:#FFFFFF;
+    color:#ffffff; /* White. https://www.colorhexa.com/ffffff */
     font-size:20px;
 }
 
@@ -3820,7 +3820,7 @@ HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
  */
 
 *[cssClass="text-intro-white"] {
-    color:#FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     font-size:16px;
 }
 
@@ -3830,7 +3830,7 @@ QPushButton[cssClass="btn-dots-welcome"] {
     background-color:#ffd700;
     font-size:18px;
     padding:8px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-radius: 2px;
 }
 
@@ -3840,7 +3840,7 @@ QPushButton[cssClass="btn-dots-welcome"]:hover {
     background-color:#254A25;
     font-size:18px;
     padding:8px;
-    color: #FFFFFF;
+    color: #FFFFFF; /* White. https://www.colorhexa.com/ffffff */
     border-radius: 2px;
 }
 
@@ -3860,7 +3860,7 @@ QPushButton[cssClass="btn-dots-welcome"]:pressed {
     font-size:18px;
     border-radius: 2px;
     padding:8px;
-    color: #FFFFFF;
+    color:#FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 *[cssClass="edit-primary-welcome"]:focus {
@@ -3879,13 +3879,13 @@ QPushButton[cssClass="btn-dots-welcome"]:pressed {
 }
 
 *[cssClass="edit-primary-welcome-disabled"] {
-    border:1px solid #33ffffff;
+    border:1px solid #33ffffff; /* White. https://www.colorhexa.com/ffffff */
     border-right: 0px;
     background-color:#202614;
     font-size:18px;
     border-radius: 2px;
     padding:8px;
-    color: #66FFFFFF;
+    color:#66FFFFFF; /* White. https://www.colorhexa.com/ffffff */
 }
 
 QRadioButton[cssClass="radio-welcome"]:checked {
@@ -3894,12 +3894,12 @@ QRadioButton[cssClass="radio-welcome"]:checked {
 }
 
 QRadioButton[cssClass="radio-welcome"]:unchecked {
-    color: #bababa;
+    color:#bababa; /* Gray. https://www.colorhexa.com/bababa */
     font-size:20px;
 }
 
 QRadioButton[cssClass="radio-welcome"] {
-    color: #bababa;
+    color:#bababa; /* Gray. https://www.colorhexa.com/bababa */
     font-size:20px;
     spacing:20px;
 }

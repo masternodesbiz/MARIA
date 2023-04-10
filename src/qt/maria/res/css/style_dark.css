@@ -3889,7 +3889,7 @@ QPushButton[cssClass="btn-dots-welcome"]:pressed {
 }
 
 QRadioButton[cssClass="radio-welcome"]:checked {
-    color: #ffd700;
+    color: #ffd700; /* Yellow. https://www.colorhexa.com/ffd700 */
     font-size:20px;
 }
 

@@ -666,8 +666,10 @@ void DashboardWidget::onChartRefreshed()
     // init sets
     set0 = new QBarSet(tr("Stakes"));
     set1 = new QBarSet(tr("MN"));
+	QColor gridY;
     set0->setColor(QColor(41,100,30));
-    set1->setColor(QColor(17,41,12));
+    set1->setColor(QColor(255,215,0));
+    
 
     if (!series) {
         series = new QBarSeries();

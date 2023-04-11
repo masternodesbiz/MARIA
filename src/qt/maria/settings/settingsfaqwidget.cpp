@@ -112,8 +112,8 @@ SettingsFaqWidget::SettingsFaqWidget(MARIAGUI* parent, MNModel* mnModel) :
 
     QString supportContent = formatFAQContent(
         formatFAQParagraph(
-            tr("We have support channels in most of our official platform, for example %1")
-                .arg("<a style='color: #b088ff' href=' https://maria.zone'>" + tr("#support fourm") + "</a>.")));
+            tr("The best way to get support is to use forum https://maria.zone > %1")
+                .arg("<a style='color: #ae8422' href='https://maria.zone'>" + tr("#support forum") + "</a>.")));
     ui->labelContent_Support->setText(supportContent);
 
     QString masternodeContent = formatFAQContent(
